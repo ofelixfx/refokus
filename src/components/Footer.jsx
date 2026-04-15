@@ -59,7 +59,7 @@ const Footer = () => {
             <a
               key={index}
               href="#"
-              className="text-sm font-normal w-32 md:w-fit capitalize hover:text-zinc-400 hover:-translate-y-px transition-all duration-300"
+              className="text-sm font-normal w-32 md:w-fit capitalize hover:text-zinc-400 transition-all duration-300"
             >
               {item}
             </a>
@@ -68,7 +68,7 @@ const Footer = () => {
         <p className="text-sm flex items-center gap-1">
           Refokus Clone &copy; 2025
           <a
-            href="https://www.instagram.com/oliverfelix.dev"
+            href="https://github.com/ofelixfx"
             className="relative inline-block overflow-hidden"
           >
             <span className="block animation-span font-bold">OLIVER FELIX</span>
