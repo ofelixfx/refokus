@@ -22,27 +22,8 @@ Refokus is a clone of [refocus.com/work](https://refocus.com/work) built for lea
 - **Vite**: A fast build tool for modern web projects.
 - **Tailwind CSS**: A utility-first CSS framework for rapid UI development.
 
-## Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/oliverfelixdev/Refokus.git
-   ```
-2. Navigate to the project directory:
-   ```bash
-   cd Refokus
-   ```
-3. Install dependencies:
-   ```bash
-   npm install
-   ```
-4. Start the development server:
-   ```bash
-   npm run dev
-   ```
-
 ## License
 This project is licensed under the MIT License.
 
 ## Contact
-For any questions or feedback, feel free to reach out to Oliver at [oliverfelix.dev@gmail.com](mailto:oliverfelix.dev@gmail.com).
+For any questions or feedback, feel free to reach out to Oliver at [ofelixfx@gmail.com](mailto:ofelixfx@gmail.com).
