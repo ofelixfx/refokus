@@ -1,7 +1,7 @@
 
 # Refokus
 
-Refokus is a clone of [refocus.com/work](https://refocus.com/work) built for learning purpose. The project showcases advanced animations, responsiveness, and leverages several animation libraries to deliver a visually appealing user experience.
+Refokus is a clone of [refocus.com/work](https://refokus.com/work) built for learning purpose. The project showcases advanced animations, responsiveness, and leverages several animation libraries to deliver a visually appealing user experience.
 
 ## Features
 - **Responsive Design**: The layout is fully responsive, ensuring compatibility across various devices and screen sizes.
